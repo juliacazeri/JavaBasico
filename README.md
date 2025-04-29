@@ -5,7 +5,7 @@ Este repositório contém exercícios básicos em Java para a prática de concei
 ##
 
 ### Conteúdo
-- **`Exercicio01.java`**:
+- **`Exercicio01.java`**: Soma os elementos de um vetor de inteiros;
 - **`Exercicio02.java`**: Conta a quantidade de números pares em um array;
 - **`Exercicio03.java`**: Lê 10 números do usuário e identifica o maior e menor número;
 - **`Exercicio04.java`**: Calcula a média de 5 notas e determina se o aluno foi aprovado ou reprovado;
